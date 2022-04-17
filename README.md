@@ -1,4 +1,4 @@
-business_case
+End-to-End Data science project  
 ==============================
 
 understand the relationships between jops and technoligies
